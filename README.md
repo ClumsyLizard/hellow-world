@@ -1,4 +1,2 @@
-# hellow-world
-Just for Discussion
-
-This commit is a tutorial of merge branch
+# weird_game
+A weird game project by java.
